@@ -2,6 +2,8 @@
 A simple python file for players who are too lazy to manually cube their familiars. 
 Note: bot is created and tested for SWORDIEMS. However it should be able to work for all maplestory servers. Can be used to cube item potential lines with a little tweaking.
 
+Video on how to setup in game: https://youtu.be/9U0pX_-GGMM
+
 HOW TO RUN BOT:
 
 1. Download lists of required packages:
