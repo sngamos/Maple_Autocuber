@@ -17,10 +17,15 @@ HOW TO RUN BOT:
 2. Open file "bot_logic.py" in your IDE. IMPORTANT: RUN YOUR IDE IN ADMINISTRATOR MODE!
 3. add a function to stop the bot when you get the lines you desire. 
     Example: Stop the bot when 2 lines of boss damage is rolled
+        
         def check_roll_2L_BD(self):
+        
         if self.line1 in single_lines_dict["BD"] and self.line2 in single_lines_dict['BD']:
+            
             self.stop_bot = True
+            
             return print(self.line1,self.line2,"    PASS")
+    
     See dictionary at line 7/8 of file to see your options, or add your own to the dictionary.
 4. Open maplestory game and place cubing UI at the top left of your screen.
 5. Note that full screen maplestory is not supported. Please change your maplestory game into windowed mode.
