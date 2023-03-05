@@ -1,5 +1,6 @@
 # Maple_Autocuber
 A simple python file for players who are too lazy to manually cube their familiars. 
+Note: bot is created and tested for SWORDIEMS. However it should be able to work for all maplestory servers. Can be used to cube item potential lines with a little tweaking.
 
 HOW TO RUN BOT:
 
@@ -30,6 +31,5 @@ HOW TO RUN BOT:
 4. Open maplestory game and place cubing UI at the top left of your screen.
 5. Note that full screen maplestory is not supported. Please change your maplestory game into windowed mode.
 6. Note that 1980x1080 resolution is not supported and might cause errors. Use resolution 1366x768 to be safe.
-7. Note: this auto-cuber was built for swordieMS private server, but should be able to work for all other maplestory games.
 
 Good luck and have fun :D
